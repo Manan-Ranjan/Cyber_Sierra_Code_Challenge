@@ -1,0 +1,10 @@
+dotenv
+langchain 
+langgraph
+Langchain_community
+Langchain_core 
+Langchain_openai
+faiss-cpu
+streamlit 
+openpyxl
+xlrd
